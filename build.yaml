@@ -1,0 +1,13 @@
+targets:
+  $default:
+    builders:
+      freezed:
+        options:
+          # Disable the generation of copyWith/== for the entire project
+          copy_with: false
+          equal: false
+          map: {
+            map: false,
+            map_or_null: false,
+            maybe_map: false,
+          }

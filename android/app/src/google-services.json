@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "648890044853",
+    "project_id": "absensi-app-c5e41",
+    "storage_bucket": "absensi-app-c5e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648890044853:android:35d16339fccffc3db909fc",
+        "android_client_info": {
+          "package_name": "com.arcodedev.absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648890044853-4liil4alh79p62g4ki6ajb3j3ti0vnc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arcodedev.absensi",
+            "certificate_hash": "52098c09043413d2b7d65c39279c39ddb2684caf"
+          }
+        },
+        {
+          "client_id": "648890044853-fh16fqcnova1ktn2ll22ksa3g24hihak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arcodedev.absensi",
+            "certificate_hash": "15beada09227cd4bb3e00cf900cd596effb9838b"
+          }
+        },
+        {
+          "client_id": "648890044853-vq0nibf7n25gf68tff7kd343hfpilm2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arcodedev.absensi",
+            "certificate_hash": "4cf4bc9ce12c5fd67cbd48598047d870ce9001db"
+          }
+        },
+        {
+          "client_id": "648890044853-ude71g4l23adgjerlffceiqbsnm5hprp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFM-6MVSYW2eSOq5I4cf4ymiLNeujW4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648890044853-ude71g4l23adgjerlffceiqbsnm5hprp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "648890044853-1orifi063kc2tti69scuqet9rov19k4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arcodedev.absensi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

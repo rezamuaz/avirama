@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "54674627799",
+    "project_id": "avira-absensi",
+    "storage_bucket": "avira-absensi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54674627799:android:35ceb88d19065b8efc2492",
+        "android_client_info": {
+          "package_name": "com.arcodedev.absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54674627799-oij80f801fq46egfajvrv93ccjfmnlmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arcodedev.absensi",
+            "certificate_hash": "d9bc892486bde4b313c6f297086c68cc072fa3cf"
+          }
+        },
+        {
+          "client_id": "54674627799-j6k0kibejp19k239dnbbltirhp5t9ick.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5DPRoSS_iCmHq5GXkAdDKVQRnTwY90O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54674627799-j6k0kibejp19k239dnbbltirhp5t9ick.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
